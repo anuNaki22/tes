@@ -9,6 +9,7 @@ const orangutan = new Mammal("Orangutan", "herbivore", 100, false, 21);
 // 1. public
 console.log(tiger);
 console.log(tiger.food);
+console.log(tiger.food);
 
 // 2. private (define with hastag)
 // console.log(tiger.showAge());
